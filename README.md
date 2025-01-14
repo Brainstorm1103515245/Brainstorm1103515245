@@ -1,12 +1,10 @@
-## Hi there 👋
+## Hi there 👋, My name is Tanmmoy Hasan Raju.
 
-<!--
-**Brainstorm1103515245/Brainstorm1103515245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | Passionate Developer   
+🎯 Goals: To collaborate with other developers, to share my projects, To learn, To contribute, To teach and top of that to be ones.  
+🌱 Currently learning: **Core Programming Concepts** 
+🚀 Tech Stack: C, Java;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
